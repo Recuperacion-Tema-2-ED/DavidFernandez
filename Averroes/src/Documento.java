@@ -1,5 +1,8 @@
 
 // Autor: David Fernández Flores
+//
+//
+// Descripción: Descripción de documento
 
 public class Documento {
     private String nombreDocumento;
