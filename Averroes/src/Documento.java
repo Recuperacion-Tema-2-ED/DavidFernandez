@@ -1,3 +1,6 @@
+
+// Autor: David Fernández Flores
+
 public class Documento {
     private String nombreDocumento;
 
